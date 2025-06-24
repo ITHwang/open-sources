@@ -103,7 +103,7 @@ projects:
     tags:
       - data_processing
   - name: "chonkie"
-    url: "https://github.com/chonkie-ai/chonkie/tree/main"
+    url: "https://github.com/chonkie-inc/chonkie"
     tags:
       - data_processing
       - rag
