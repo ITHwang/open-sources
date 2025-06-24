@@ -1,0 +1,66 @@
+agent_framework:
+  name: "Agent Framework"
+  emoji: "🏗️"
+automation:
+  name: "Automation"
+  emoji: "⚙️"
+backend:
+  name: "Backend"
+  emoji: "⛏️"
+data_generation:
+  name: "Data Generation"
+  emoji: "🔄"
+data_sourcing:
+  name: "Data Sourcing"
+  emoji: "📥"
+data_processing:
+  name: "Data Processing"
+  emoji: "🛠️"
+llm:
+  name: "LLM"
+  emoji: "🧠"
+llm_evaluation:
+  name: "llm evaluation"
+  emoji: "📐"
+llm_monitoring:
+  name: "LLM Monitoring"
+  emoji: "👀"
+llm_inference:
+  name: "LLM Inference"
+  emoji: "🚀"
+llm_training:
+  name: "LLM Training"
+  emoji: "📚"
+mcp:
+  name: "MCP"
+  emoji: "🪢"
+machine_learning:
+  name: "Machine Learning"
+  emoji: "🤖"
+deep_learning:
+  name: "Deep Learning"
+  emoji: "📝"
+paper:
+  name: "Paper"
+  emoji: "📄"
+vlm:
+  name: "VLM"
+  emoji: "👁️"
+rag:
+  name: "RAG"
+  emoji: "🔍"
+ui_ux:
+  name: "UI/UX"
+  emoji: "🎨"
+python:
+  name: "Python"
+  emoji: "🐍"
+robotics:
+  name: "Robotics"
+  emoji: "🦾"
+embedding:
+  name: "Embedding"
+  emoji: "🗂️"
+others:
+  name: "Others"
+  emoji: "🧩"

@@ -1,0 +1,747 @@
+- name: "Open WebUI"
+  url: "https://github.com/open-webui/open-webui"
+  tags:
+    - ui_ux
+- name: "streamlit"
+  url: "https://github.com/streamlit/streamlit"
+  tags:
+    - ui_ux
+- name: "Gradio"
+  url: "https://github.com/gradio-app/gradio"
+  tags:
+    - ui_ux
+- name: "chainlit"
+  url: "https://github.com/Chainlit/chainlit"
+  tags:
+    - ui_ux
+- name: "MarkItDown"
+  url: "https://github.com/microsoft/markitdown"
+  tags:
+    - data_processing
+- name: "Unstructured"
+  url: "https://github.com/Unstructured-IO/unstructured"
+  tags:
+    - data_processing
+- name: "datasketch"
+  url: "https://github.com/ekzhu/datasketch"
+  tags:
+    - data_processing
+- name: "chonkie"
+  url: "https://github.com/chonkie-inc/chonkie"
+  tags:
+    - data_processing
+    - rag
+- name: "dify-openwebui"
+  url: "https://github.com/teddylee777/dify-openwebui"
+  tags:
+    - rag
+- name: "Loguru"
+  url: "https://github.com/Delgan/loguru"
+  tags:
+    - python
+- name: "DataChain"
+  url: "https://github.com/iterative/datachain"
+  tags:
+    - data_processing
+- name: "NVIDIA-Ingest"
+  url: "https://github.com/NVIDIA/nv-ingest"
+  tags:
+    - data_processing
+- name: "Kiwi"
+  url: "https://github.com/bab2min/Kiwi"
+  tags:
+    - data_processing
+- name: "KSS: Korean String processing Suite"
+  url: "https://github.com/hyunwoongko/kss"
+  tags:
+    - data_processing
+- name: "json_repair"
+  url: "https://github.com/mangiucugna/json_repair"
+  tags:
+    - data_processing
+- name: "Levenshtein"
+  url: "https://github.com/rapidfuzz/Levenshtein"
+  tags:
+    - data_processing
+- name: "MinerU"
+  url: "https://github.com/opendatalab/MinerU"
+  tags:
+    - data_processing
+- name: "DeepSpeed"
+  url: "https://github.com/microsoft/DeepSpeed"
+  tags:
+    - llm_training
+- name: "SkyThought"
+  url: "https://github.com/NovaSky-AI/SkyThought"
+  tags:
+    - llm_training
+- name: "Easy DPO"
+  url: "https://github.com/DopeorNope-Lee/Easy_DPO"
+  tags:
+    - llm_training
+- name: "maestro"
+  url: "https://github.com/roboflow/maestro"
+  tags:
+    - llm_training
+- name: "Colossal-AI"
+  url: "https://github.com/hpcaitech/ColossalAI"
+  tags:
+    - llm_training
+- name: "exo"
+  url: "https://github.com/exo-explore/exo"
+  tags:
+    - llm_inference
+- name: "SGLang"
+  url: "https://github.com/sgl-project/sglang"
+  tags:
+    - llm_inference
+- name: "Outlines"
+  url: "https://github.com/dottxt-ai/outlines"
+  tags:
+    - llm_inference
+- name: "Instructor"
+  url: "https://github.com/instructor-ai/instructor"
+  tags:
+    - llm_inference
+- name: "Oumi"
+  url: "https://github.com/oumi-ai/oumi"
+  tags:
+    - llm_inference
+    - llm_training
+- name: "Lark"
+  url: "https://github.com/lark-parser/lark"
+  tags:
+    - llm_inference
+- name: "Dynamo"
+  url: "https://github.com/ai-dynamo/dynamo"
+  tags:
+    - llm_inference
+- name: "Medusa"
+  url: "https://github.com/FasterDecoding/Medusa"
+  tags:
+    - llm_inference
+- name: "LlamaEdge"
+  url: "https://github.com/LlamaEdge/LlamaEdge"
+  tags:
+    - llm_inference
+- name: "vLLM Production Stack"
+  url: "https://github.com/vllm-project/production-stack"
+  tags:
+    - llm_inference
+- name: "BitNet"
+  url: "https://github.com/microsoft/BitNet"
+  tags:
+    - llm_inference
+- name: "Byte Latent Transformer"
+  url: "https://github.com/facebookresearch/blt"
+  tags:
+    - paper
+- name: "Crawl4AI"
+  url: "https://github.com/unclecode/crawl4ai"
+  tags:
+    - data_generation
+    - data_sourcing
+- name: "Magpie"
+  url: "https://github.com/magpie-align/magpie"
+  tags:
+    - data_generation
+    - data_sourcing
+    - paper
+- name: "SQLModel"
+  url: "https://github.com/fastapi/sqlmodel"
+  tags:
+    - backend
+- name: "AutoGen"
+  url: "https://github.com/microsoft/autogen"
+  tags:
+    - agent_framework
+- name: "CrewAI"
+  url: "https://github.com/crewAIInc/crewAI"
+  tags:
+    - agent_framework
+- name: "LangGraph"
+  url: "https://github.com/langchain-ai/langgraph"
+  tags:
+    - agent_framework
+- name: "Faker"
+  url: "https://github.com/joke2k/faker"
+  tags:
+    - python
+- name: "Tenacity"
+  url: "https://github.com/jd/tenacity"
+  tags:
+    - llm_inference
+- name: "pydeps"
+  url: "https://github.com/thebjorn/pydeps"
+  tags:
+    - python
+- name: "CUDA Python"
+  url: "https://github.com/NVIDIA/cuda-python"
+  tags:
+    - python
+- name: "nGrinder"
+  url: "https://github.com/naver/ngrinder"
+  tags:
+    - others
+- name: "flexprice"
+  url: "https://github.com/flexprice/flexprice"
+  tags:
+    - others
+- name: "Vitess"
+  url: "https://github.com/vitessio/vitess"
+  tags:
+    - others
+- name: "xFormers"
+  url: "https://github.com/facebookresearch/xformers"
+  tags:
+    - deep_learning
+- name: "einops"
+  url: "https://github.com/arogozhnikov/einops"
+  tags:
+    - deep_learning
+- name: "Lovely Tensors"
+  url: "https://github.com/xl0/lovely-tensors"
+  tags:
+    - deep_learning
+- name: "InternLM-XComposer2.5"
+  url: "https://github.com/InternLM/InternLM-XComposer"
+  tags:
+    - vlm
+    - paper
+- name: "Langfuse"
+  url: "https://github.com/langfuse/langfuse"
+  tags:
+    - llm_evaluation
+    - llm_monitoring
+- name: "opik"
+  url: "https://github.com/comet-ml/opik"
+  tags:
+    - llm_evaluation
+    - llm_monitoring
+- name: "Dify"
+  url: "https://github.com/langgenius/dify"
+  tags:
+    - automation
+    - llm_monitoring
+    - agent_framework
+    - ui_ux
+- name: "khoj"
+  url: "https://github.com/khoj-ai/khoj"
+  tags:
+    - agent_framework
+    - ui_ux
+- name: "DSPy"
+  url: "https://github.com/stanfordnlp/dspy"
+  tags:
+    - agent_framework
+    - paper
+- name: "Browser use"
+  url: "https://github.com/browser-use/browser-use"
+  tags:
+    - automation
+    - agent_framework
+- name: "n8n"
+  url: "https://github.com/n8n-io/n8n"
+  tags:
+    - automation
+- name: "tinygrad"
+  url: "https://github.com/tinygrad/tinygrad"
+  tags:
+    - deep_learning
+- name: "micrograd"
+  url: "https://github.com/karpathy/micrograd"
+  tags:
+    - deep_learning
+- name: "smolagents"
+  url: "https://github.com/huggingface/smolagents"
+  tags:
+    - agent_framework
+- name: "GPTCache"
+  url: "https://github.com/zilliztech/GPTCache"
+  tags:
+    - backend
+    - agent_framework
+- name: "PydanticAI"
+  url: "https://github.com/pydantic/pydantic-ai"
+  tags:
+    - agent_framework
+- name: "AutoRAG"
+  url: "https://github.com/Marker-Inc-Korea/AutoRAG"
+  tags:
+    - llm_evaluation
+    - agent_framework
+- name: "Promptfoo"
+  url: "https://github.com/promptfoo/promptfoo"
+  tags:
+    - llm_evaluation
+- name: "evaluate"
+  url: "https://github.com/huggingface/evaluate"
+  tags:
+    - llm_evaluation
+- name: "MLflow(GenAI)"
+  url: "https://mlflow.org/docs/latest/llms"
+  tags:
+    - llm_evaluation
+- name: "Tonic Validate"
+  url: "https://github.com/TonicAI/tonic_validate"
+  tags:
+    - llm_evaluation
+- name: "ragas"
+  url: "https://github.com/explodinggradients/ragas"
+  tags:
+    - llm_evaluation
+- name: "ARES"
+  url: "https://github.com/stanford-futuredata/ARES"
+  tags:
+    - llm_evaluation
+- name: "PromptTools"
+  url: "https://github.com/hegelai/prompttools"
+  tags:
+    - llm_evaluation
+- name: "Agenta"
+  url: "https://github.com/Agenta-AI/agenta"
+  tags:
+    - llm_evaluation
+- name: "Fast GraphRAG"
+  url: "https://github.com/circlemind-ai/fast-graphrag"
+  tags:
+    - rag
+- name: "burr"
+  url: "https://github.com/DAGWorks-Inc/burr"
+  tags:
+    - agent_framework
+- name: "TypeChat"
+  url: "https://github.com/microsoft/TypeChat"
+  tags:
+    - agent_framework
+- name: "OpenHands"
+  url: "https://github.com/All-Hands-AI/OpenHands"
+  tags:
+    - agent_framework
+- name: "PrivateGPT"
+  url: "https://github.com/zylon-ai/private-gpt"
+  tags:
+    - agent_framework
+    - rag
+    - ui_ux
+- name: "Textual"
+  url: "https://github.com/textualize/textual"
+  tags:
+    - ui_ux
+- name: "Model Context Protocol Servers"
+  url: "https://github.com/modelcontextprotocol/servers"
+  tags:
+    - agent_framework
+- name: "OpenManus"
+  url: "https://github.com/mannaandpoem/OpenManus"
+  tags:
+    - automation
+    - agent_framework
+- name: "Agent Development Kit (ADK)"
+  url: "https://github.com/google/adk-python"
+  tags:
+    - agent_framework
+    - ui_ux
+- name: "OpenAI Agents SDK"
+  url: "https://github.com/openai/openai-agents-python"
+  tags:
+    - agent_framework
+- name: "aider"
+  url: "https://github.com/Aider-AI/aider"
+  tags:
+    - agent_framework
+- name: "OpenAI Codex CLI"
+  url: "https://github.com/openai/codex"
+  tags:
+    - agent_framework
+- name: "Cline"
+  url: "https://github.com/cline/cline"
+  tags:
+    - automation
+- name: "act"
+  url: "https://github.com/nektos/act"
+  tags:
+    - others
+- name: "emcee"
+  url: "https://github.com/loopwork-ai/emcee"
+  tags:
+    - mcp
+- name: "Model2Vec"
+  url: "https://github.com/MinishLab/model2vec"
+  tags:
+    - embedding
+- name: "mcp-use"
+  url: "https://github.com/pietrozullo/mcp-use"
+  tags:
+    - mcp
+- name: "system-prompts-and-models-of-ai-tools"
+  url: "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+  tags:
+    - others
+- name: "semhash"
+  url: "https://github.com/MinishLab/semhash"
+  tags:
+    - data_processing
+- name: "FastMCP v2"
+  url: "https://github.com/jlowin/fastmcp"
+  tags:
+    - mcp
+- name: "FastRTC"
+  url: "https://github.com/gradio-app/fastrtc"
+  tags:
+    - python
+- name: "numba"
+  url: "https://github.com/numba/numba"
+  tags:
+    - python
+- name: "LightGBM"
+  url: "https://github.com/microsoft/LightGBM"
+  tags:
+    - machine_learning
+- name: "Bokeh"
+  url: "https://github.com/bokeh/bokeh"
+  tags:
+    - python
+- name: "The LLM Evaluation guidebook"
+  url: https://github.com/huggingface/evaluation-guidebook
+  tags:
+    - llm_evaluation
+- name: "Pysheeet"
+  url: https://github.com/crazyguitar/pysheeet
+  tags:
+    - python
+- name: "TinyZero"
+  url: https://github.com/Jiayi-Pan/TinyZero
+  tags:
+    - deep_learning
+    - paper
+- name: "Chunking Evaluation"
+  url: https://github.com/brandonstarxel/chunking_evaluation
+  tags:
+    - paper
+    - rag
+- name: "LMDeploy"
+  url: https://github.com/InternLM/lmdeploy
+  tags:
+    - llm_inference
+- name: "Llama Stack"
+  url: https://github.com/meta-llama/llama-stack
+  tags:
+    - llm_inference
+    - rag
+    - agent_framework
+- name: "vLLM Production Stack"
+  url: https://github.com/vllm-project/production-stack
+  tags:
+    - llm_inference
+- name: "LMCache"
+  url: https://github.com/LMCache/LMCache
+  tags:
+    - llm_inference
+- name: "Ghost"
+  url: https://github.com/TryGhost/Ghost
+  tags:
+    - others
+- name: "GPU-Benchmarks-on-LLM-Inference"
+  url: https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference
+  tags:
+    - llm_inference
+- name: "DeepResearch"
+  url: https://github.com/jina-ai/node-DeepResearch
+  tags:
+    - llm_inference
+    - agent_framework
+- name: "Lazy Predict"
+  url: https://github.com/shankarpandala/lazypredict
+  tags:
+    - machine_learning
+- name: "Awesome CursorRules"
+  url: https://github.com/PatrickJS/awesome-cursorrules
+  tags:
+    - others
+- name: "Textual"
+  url: https://github.com/Textualize/textual
+  tags:
+    - ui_ux
+    - python
+- name: "Awesome TUIs"
+  url: https://github.com/rothgar/awesome-tuis
+  tags:
+    - ui_ux
+- name: "Search and Learn"
+  url: https://github.com/huggingface/search-and-learn
+  tags:
+    - llm_training
+- name: "FastAPI-MCP"
+  url: https://github.com/tadata-org/fastapi_mcp
+  tags:
+    - mcp
+    - backend
+- name: "llama3.np"
+  url: https://github.com/likejazz/llama3.np
+  tags:
+    - llm
+- name: "FlashMLA"
+  url: https://github.com/deepseek-ai/FlashMLA
+  tags:
+    - llm
+- name: "DeepEP"
+  url: https://github.com/deepseek-ai/DeepEP
+  tags:
+    - llm
+- name: "DeepGEMM"
+  url: https://github.com/deepseek-ai/DeepGEMM
+  tags:
+    - llm
+- name: "smallpond"
+  url: https://github.com/deepseek-ai/smallpond
+  tags:
+    - data_processing
+- name: "TextGrad"
+  url: https://github.com/zou-group/textgrad
+  tags:
+    - paper
+- name: "OPRO"
+  url: https://github.com/google-deepmind/opro
+  tags:
+    - paper
+- name: "Trace"
+  url: https://github.com/microsoft/Trace
+  tags:
+    - paper
+- name: "XGrammar"
+  url: https://github.com/mlc-ai/xgrammar
+  tags:
+    - llm_inference
+    - paper
+- name: "nanoVLM"
+  url: https://github.com/huggingface/nanoVLM
+  tags:
+    - vlm
+- name: "FastMCP v2"
+  url: https://github.com/jlowin/fastmcp
+  tags:
+    - mcp
+- name: "jq"
+  url: https://github.com/jqlang/jq
+  tags:
+    - data_processing
+- name: "Fastgen"
+  url: https://github.com/facebookresearch/fastgen
+  tags:
+    - llm_inference
+- name: "ko-embedding-leaderboard"
+  url: https://github.com/OnAnd0n/ko-embedding-leaderboard
+  tags:
+    - embedding
+- name: "OpenVLA"
+  url: https://github.com/openvla/openvla
+  tags:
+    - robotics
+    - paper
+- name: "TypeAgent"
+  url: https://github.com/microsoft/TypeAgent
+  tags:
+    - agent_framework
+- name: "usls"
+  url: https://github.com/jamjamjon/usls
+  tags:
+    - deep_learning
+- name: "LLM Compressor"
+  url: https://github.com/vllm-project/llm-compressor
+  tags:
+    - llm_inference
+- name: "Dynamo"
+  url: https://github.com/ai-dynamo/dynamo
+  tags:
+    - llm_inference
+- name: "Pyright"
+  url: https://github.com/microsoft/pyright
+  tags:
+    - python
+- name: "verl"
+  url: https://github.com/volcengine/verl
+  tags:
+    - llm_training
+- name: "HTTPX"
+  url: https://github.com/encode/httpx
+  tags:
+    - python
+- name: "FastVLM"
+  url: https://github.com/apple/ml-fastvlm
+  tags:
+    - vlm
+    - paper
+- name: "AIBrix"
+  url: https://github.com/vllm-project/aibrix
+  tags:
+    - llm_inference
+- name: "Reflex"
+  url: https://github.com/reflex-dev/reflex
+  tags:
+    - ui_ux
+- name: "DeepEval"
+  url: https://github.com/confident-ai/deepeval
+  tags:
+    - llm_evaluation
+- name: "Pyrefly"
+  url: https://github.com/facebook/pyrefly
+  tags:
+    - python
+- name: "Google AI Edge Gallery"
+  url: https://github.com/google-ai-edge/gallery
+  tags:
+    - llm_inference
+- name: "Correlations"
+  url: https://github.com/jina-ai/correlations
+  tags:
+    - embedding
+- name: "Fire-Flyer File System (3FS)"
+  url: https://github.com/deepseek-ai/3FS
+  tags:
+    - data_processing
+- name: "Gemini Fullstack LangGraph Quickstart"
+  url: https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart
+  tags:
+    - agent_framework
+- name: "Moshi"
+  url: https://github.com/kyutai-labs/moshi
+  tags:
+    - deep_learning
+    - paper
+- name: "Manim"
+  url: https://github.com/ManimCommunity/manim
+  tags:
+    - others
+- name: "Open Agent Platform"
+  url: https://github.com/langchain-ai/open-agent-platform
+  tags:
+    - agent_framework
+- name: "NLWeb"
+  url: https://github.com/microsoft/NLWeb
+  tags:
+    - others
+- name: "Cactus"
+  url: https://github.com/cactus-compute/cactus
+  tags:
+    - llm_inference
+- name: "SQLAlchemy"
+  url: https://github.com/sqlalchemy/sqlalchemy
+  tags:
+    - backend
+- name: "Peewee"
+  url: https://github.com/coleifer/peewee
+  tags:
+    - backend
+- name: "SO-ARM100"
+  url: https://github.com/TheRobotStudio/SO-ARM100
+  tags:
+    - robotics
+- name: "XLeRobot"
+  url: https://github.com/Vector-Wangel/XLeRobot
+  tags:
+    - robotics
+- name: "RoboTwin"
+  url: https://github.com/RoboTwin-Platform/RoboTwin
+  tags:
+    - robotics
+- name: "Isaac GR00T"
+  url: https://github.com/NVIDIA/Isaac-GR00T
+  tags:
+    - robotics
+- name: "Open Thoughts"
+  url: https://github.com/open-thoughts/open-thoughts
+  tags:
+    - llm
+- name: "RoboBrain 2.0"
+  url: https://github.com/FlagOpen/RoboBrain2.0
+  tags:
+    - robotics
+- name: "Asyncer"
+  url: https://github.com/fastapi/asyncer
+  tags:
+    - python
+- name: "Unsloth"
+  url: https://github.com/unslothai/unsloth
+  tags:
+    - llm_training
+- name: "PEFT"
+  url: https://github.com/huggingface/peft
+  tags:
+    - llm_training
+- name: "TRL"
+  url: https://github.com/huggingface/trl
+  tags:
+    - llm_training
+- name: "Transformers"
+  url: https://github.com/huggingface/transformers
+  tags:
+    - llm_training
+    - llm_inference
+- name: "Axolotl"
+  url: https://github.com/axolotl-ai-cloud/axolotl
+  tags:
+    - llm_training
+- name: "LitGPT"
+  url: https://github.com/Lightning-AI/litgpt
+  tags:
+    - llm_training
+    - llm_inference
+- name: "Llama Factory"
+  url: https://github.com/hiyouga/LLaMA-Factory
+  tags:
+    - llm_training
+- name: "torchtune"
+  url: https://github.com/pytorch/torchtune
+  tags:
+    - llm_training
+- name: "mem0"
+  url: https://github.com/mem0ai/mem0
+  tags:
+    - agent_framework
+    - paper
+- name: "Langflow"
+  url: https://github.com/langflow-ai/langflow
+  tags:
+    - agent_framework
+- name: "GPTCache"
+  url: https://github.com/zilliztech/gptcache
+  tags:
+    - agent_framework
+- name: "TensorRT-LLM"
+  url: https://github.com/NVIDIA/TensorRT-LLM
+  tags:
+    - llm_inference
+- name: "ScrapeGraphAI"
+  url: https://github.com/ScrapeGraphAI/Scrapegraph-ai
+  tags:
+    - data_processing
+- name: "Docling"
+  url: https://github.com/docling-project/docling
+  tags:
+    - data_processing
+- name: "Sentence Transformers"
+  url: https://github.com/UKPLab/sentence-transformers
+  tags:
+    - embedding
+- name: "FastEmbed"
+  url: https://github.com/qdrant/fastembed
+  tags:
+    - embedding
+- name: PandasAI
+  url: https://github.com/sinaptik-ai/pandas-ai
+  tags:
+    - rag
+    - agent_framework
+- name: yap
+  url: https://github.com/finnvoor/yap
+  tags:
+    - deep_learning
+- name: "EfficientLLM"
+  url: https://github.com/DLYuanGod/EfficientLLM
+  tags:
+    - llm
+- name: "smollm"
+  url: https://github.com/huggingface/smollm
+  tags:
+    - llm

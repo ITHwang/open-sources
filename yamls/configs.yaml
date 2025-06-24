@@ -1,0 +1,8 @@
+templates:
+  tags: |-
+    ## ${emoji} ${name}
+  projects: |-
+    - **[${name}](${url})** ⭐ ${stars}k ${license} - ${description}
+sort_by:
+  tags: "name"
+  projects: "stars"
